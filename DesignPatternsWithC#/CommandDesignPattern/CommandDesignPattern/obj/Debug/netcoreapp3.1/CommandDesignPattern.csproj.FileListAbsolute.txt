@@ -1,3 +1,0 @@
-C:\Users\cnsub\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.AssemblyInfoInputs.cache
-C:\Users\cnsub\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.AssemblyInfo.cs
-C:\Users\cnsub\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.csproj.CoreCompileInputs.cache
